@@ -1,0 +1,485 @@
+[
+  {
+
+    "Id" : 1,
+    "Sanskrit":"उठ भाग्यो वाराणसी, न्हायो गंग हजार। पीपा वे जन उत्तम घणा, जिण राम कयो इकबार॥ ",
+    "Gujarati": "વારાણસી ઊઠીને ભાગી ગઈ, હજાર વાર ગંગામાં સ્નાન કર્યું.તેઓ પીપળામાં શ્રેષ્ઠ લોકો છે, જેમણે એકવાર રામ કર્યું છે.",
+    "English": "Varanasi got up and fled, bathed in the Ganges a thousand times.They are the best people in the barrel, who have done Rama once.",
+    "Hindi": "वाराणसी उठकर भागे, सहस्र बार गंगा नहाये। वे बैरल में सबसे अच्छे लोग हैं, जिन्होंने एक बार रामा किया है।"
+
+  },
+  {
+    "Id" : 2,
+    "Sanskrit": "सगुण मीठौ खांड सौ, निरगुण कड़वौ नीम। पीपा गुरु जो परसदे, निरभ्रम होकर जीम॥ ",
+    "Gujarati": "સગુણ મીઠી સાકર સો, નિર્ગુણ કડવો લીમડો.પીતા શિક્ષક જે ખચકાટ વિના સેવા આપે છે તે જિમ છે.",
+    "English": "Sagun sweet sugar hundred, Nirgun bitter neem.The drinking teacher who serves, without hesitation, is the gym.",
+    "Hindi": "सगुन मधुर शर्करा सौ, निर्गुण कड़वा नीम। शराब पीने वाला शिक्षक, जो बिना किसी हिचकिचाहट के सेवा करता है, जिम है।"
+
+
+  },
+  {
+    "Id" : 3,
+    "Sanskrit": "पीपा पाप न कीजिये, अलगौ रहिये आप। करणी जासी आपणी, कुण बैटौ कुण बाप॥ ",
+    "Gujarati": "બેરલનું પાપ ન કરો, તમારી જાતથી અલગ રહો.પોતાનું કામ કોણ કરશે, તેનો પુત્ર કે પિતા કોણ છે?",
+    "English": "Don't sin the barrel, stay apart yourself.Who will do his own thing, who is his son or father?",
+    "Hindi": "बैरल पर पाप मत करो, खुद अलग रहो। कौन अपना काम करेगा, कौन उसका बेटा या पिता?"
+  },
+  {
+    "Id" : 4,
+    "Sanskrit": "जीव मारि जीमण कर, खाताँ करै बखाण। पीपा परतखि देखि ले, थांली माँहि मसाण॥ ",
+    "Gujarati": "જીવોને મારીને ખાઓ, અને હિસાબ વર્ણવો.પીપળાનું પડ, થાળીમાં કબર જુઓ.",
+    "English": "Kill the creatures and eat, and describe the accounts. See the barrel layer, the grave in the plate.",
+    "Hindi": "प्राणियों को मारकर खाओ तथा वृत्तान्त का वर्णन करो। बैरल परत देखें, थाली में कब्र."
+
+
+  },
+  {
+    "Id" : 5,
+    "Sanskrit": "हाथाँ सो उधम करै, मुख सों उचरे नाम। पीपा साधां रो धरम, रोम रमारे राम॥ ",
+    "Gujarati": "હાથન સો ઉધમ કરે, મુખ પુત્ર ઉચ્ચે નામ.સંતોનો પીપળો સદાચાર છે, વાળ તેજસ્વી છે, હે રામ.",
+    "English": "Hathan so udham kare, mukh son uchre naam.The barrel of the saints is the righteousness, the hairs are bright, O Rama.",
+    "Hindi": "हाथन सो उधम करे, मुख पुत्र उचरे नाम। संतों की बैरल धर्म है, बाल उज्ज्वल हैं, हे राम।"
+  },
+  {
+    "Id" : 6,
+    "Sanskrit": "पीपा राम को भजे, बस तेरस और तीज। गिरे तो उगे धरती, औंधे गिरे बीज।",
+    "Gujarati": "પીપા રામ, માત્ર તેરસ અને તીજની પૂજા કરે છે.જો તેઓ પડી જાય, તો પૃથ્વી વધે છે, અને બીજ પડે છે.",
+    "English": "Peepa worships Ram, just Teras and Teej.If they fall, the earth grows, and the seeds fall.",
+    "Hindi": "पीपा राम को भजे, बस तेरस और तीज। गिरे तो उगे धरती, औंधे गिरे बीज।"
+
+
+  },
+  {
+    "Id" : 7,
+    "Sanskrit": "पग धोऊ उण देव का, जो घालि गुरु घाट। \n\nपीपा तिनकू ना गिणूं, जिणरे मठ अर ठाठ॥ ",
+    "Gujarati": "પાગ દોઉ અન દેવ કા, જો ગાલી ગુરુ ઘાટ.\n\nહું ત્રણ પીનારાઓની ગણતરી કરી શકતો નથી, જેઓ આશ્રમો અને વૈભવોમાં રહે છે.",
+    "English": "Pag dhou un dev ka, jo ghali guru ghat.\n\nI cannot count the three drinkers, who live in monasteries and luxury.",
+    "Hindi": "पग धौ उन देव का, जो घलि गुरु घट।\n\nमैं उन तीन शराबियों की गिनती नहीं कर सकता, जो मठों और विलासिता में रहते हैं।"
+  },
+  {
+    "Id" : 8,
+    "Sanskrit": "सुआरथ के सब मीत रे, पग-पग विपद बढ़ाय। \n\nपीपा गुरु उपदेश बिनुं, साँच न जान्यो जाय॥ ",
+    "Gujarati": "સ્વાર્થના સૌ મિત્રો, કદમથી આફત વધે.\n\nશિક્ષકની સૂચના વિના સત્ય જાણી શકાતું નથી.",
+    "English": "All the friends of selfishness, step by step increase the disaster.\n\nWithout the instruction of the teacher, the truth cannot be known.",
+    "Hindi": "स्वार्थ के सभी मित्र कदम-कदम पर विपत्ति बढ़ाते हैं।\n\nगुरु के निर्देश के बिना सत्य को नहीं जाना जा सकता।"
+
+
+  },
+  {
+    "Id" : 9,
+    "Sanskrit": "नमूं तो गुरु अर राम कुँ, भव इतराते पार। \n\nपीपा नमें न आन कुँ, सुवारथ रो संसार॥ ",
+    "Gujarati": "હું ગુરુ અને રામને નમન કરું છું, જેઓ વિશ્વને પાર કરે છે.\n\nપીપળો બીજા માટે નથી, દુનિયા સ્વાર્થી છે.",
+    "English": "I bow to Guru and Ram, who cross the world.\n\nThe barrel is not for others, the world is selfish.",
+    "Hindi": "भवसागर से पार कराने वाले गुरु और राम को मैं प्रणाम करता हूँ।\n\nबैरल दूसरों के लिए नहीं है, दुनिया स्वार्थी है।"
+  },
+  {
+    "Id" : 10,
+    "Sanskrit": "राम नाम जियां जाणिया, पकड़ गुरु की धार। \n\nपीपा पल में परसिया, खुलग्यो मुक्ति द्वार॥ ",
+    "Gujarati": "રામ નામ જિયાં જાનીયા, ધરો ગુરુ કી ધાર.\n\nક્ષણભરમાં પીપળો રેડવામાં આવ્યો, અને મુક્તિનો દરવાજો ખોલવામાં આવ્યો.",
+    "English": "Ram Naam Jiyan Janiya, Hold Guru Ki Dhaar.\n\nThe barrel was poured in a moment, and the door of salvation was opened.",
+    "Hindi": "राम नाम जियन जानिया, गुरु की धार पकड़ो।\n\nएक क्षण में पीपा उड़ेल दिया और मुक्ति का द्वार खुल गया।"
+
+
+  },
+  {
+    "Id" :11,
+    "Sanskrit": "पीपा माया सब कथी, माया तो अणतोल। \n\nकयां राम के नेहड़े, कयां राम के पोल॥ ",
+    "Gujarati": "પીપા માયા છે, માયા અસહ્ય છે.\n\nરામના પાડોશીઓ ક્યાં છે, રામના ધ્રુવો ક્યાં છે?",
+    "English": "Peepa Maya is all about, Maya is unbearable.\n\nWhere are the neighbors of Rama, where are the poles of Rama?",
+    "Hindi": "पीपा माया सर्वव्यापी, माया असहनीय।\n\nकहां हैं राम के पड़ोसी, कहां हैं राम के ध्रुव?"
+  },
+  {
+    "Id" : 12,
+    "Sanskrit": "पीपा कहत विचार हिरदै, राम सरिस नहिं आन। \n\nजा सूँ कृपा उपजै हिरदै, विशद विवेक सुजान॥ ",
+    "Gujarati": "પીપા કહે વિચારી દિલ, રામ સરિસ નહિ આન.\n\nજ્યાં મારા હૃદયમાં કૃપા ઉત્પન્ન થાય છે, સ્પષ્ટ ભેદભાવ મુજબની.",
+    "English": "Peepa says thought heart, Ram saris nahin aan.\n\nWhere grace arises in my heart, clear discrimination wise.",
+    "Hindi": "पीपा कहे मन विचार, राम सरिस नहिं आन।\n\nजहां मेरे हृदय में कृपा उत्पन्न होती है, स्पष्ट विवेक बुद्धिमान।"
+
+
+  },
+  {
+    "Id" : 13,
+    "Sanskrit": "स्वारथ के सब ही सगा, जिनसो विपद न जाय। \n\nपीपा गुरु उपदेश बिनु, राम न जान्यो जाय॥ ",
+    "Gujarati": "સ્વાર્થના સઘળા સગા, જેને આપત્તિ ન જાય.\n\nમદ્યપાન કરનાર શિક્ષકની સલાહ વિના, રામની ઓળખ થતી નથી.",
+    "English": "All the relatives of selfishness, whom disaster does not go.\n\nWithout the advice of the drinking teacher, Rama is not known.",
+    "Hindi": "स्वार्थ के सब सगे, जिन पर विपदा न जाय।\n\nमदिरा गुरु की सलाह के बिना राम की पहचान नहीं होती।"
+  },
+  {
+    "Id" : 14,
+    "Sanskrit": "पीपा पी पथ निरखता, आँखा झाँई पड़ी। \n\nअभी पी अडग अलख लखूँ, अडिकूं घड़ी-घड़ी॥ ",
+    "Gujarati": "પીપા પી પાથ જુએ છે, આંખો પહોળી કરે છે.\n\nઅભી પી અદગ અલખ લાખું, આદિકું ઘડી-ઘાડી ॥",
+    "English": "Peepa P watches the path, eyes wide.\n\nAbhi pi adag alakh lakhun, adikun ghadi-ghadi॥",
+    "Hindi": "पीपा पी पथ को देखती है, आँखें चौड़ी किये हुए।\n\nअभि पि अडग अलख लाखुन, आदिकुन घड़ी-घड़ी॥"
+
+
+  },
+  {
+    "Id" : 15,
+    "Sanskrit": "निज को जो चाहे सुखी, हुवो चहै दुख हीन। \n\nतो भज ले श्रीराम को, पीपा रहै न दीन॥ ",
+    "Gujarati": "જે સુખી થવા માંગે છે, તે દુઃખથી મુક્ત થવા માંગે છે.\n\nતો શ્રી રામની પૂજા કરો, તરસ્યો ગરીબ નથી.",
+    "English": "Whoever wants to be happy, he wants to be free from suffering.\n\nSo worship Sri Rama, the thirsty is not poor.",
+    "Hindi": "जो भी सुखी रहना चाहता है, वह दुःख से मुक्त होना चाहता है।\n\nइसलिए श्री राम की पूजा करो, प्यासा गरीब नहीं होता।"
+  },
+  {
+    "Id" : 16,
+    "Sanskrit": "साँच मंत्र तो राम भज, और सभी कुछ कूड़। \n\nपीपा वेद पुराण पढूं, क्यों बन्यो रहे मूढ॥ ",
+    "Gujarati": "સાચો મંત્ર રામની પૂજા કરવાનો છે, અને બાકીનું બધું કચરો છે.\n\nહું વેદ-પુરાણો પીઉં છું, હું મૂર્ખ કેમ રહીશ?",
+    "English": "The true mantra is to worship Ram, and everything else is garbage.\n\nI drink the Vedas and Puranas, why do I remain a fool?",
+    "Hindi": "राम की भक्ति ही सच्चा मंत्र है बाकी सब बकवास है।\n\nमैं वेद-पुराण पी जाता हूँ, फिर भी मूर्ख क्यों बना रहता हूँ?"
+
+
+  },
+  {
+    "Id" : 17,
+    "Sanskrit": "कुंजा ज्यों कुरल्या करै, बिरही जणा को जीव। \n\nपेपा आगि न बुझ सके, जब लग मिले न पीव॥ ",
+    "Gujarati": "કુંજ જ્યોં કુર્લ્યા કરે, બિરહી જાના કો જીવ.\n\nપેપા આગ ઓલવી શકતો નથી, જ્યારે તે નજીક હોય ત્યારે તે પીતો નથી.",
+    "English": "Kunja jyon kurlya kare, birhi jana ko jiv.\n\nPepa cannot extinguish the fire, when it is near it does not drink.",
+    "Hindi": "कुंजा ज्यों कुर्ल्या करे, बिरहि जन को जीव।\n\nपेपा आग नहीं बुझा सकता, पास हो तो पीता नहीं."
+  },
+  {
+    "Id" : 18,
+    "Sanskrit": "पीपा राम प्रताप ते, सागर जल के माँह। \n\nपत्थर तिरे तरूपांत ज्यूँ, नर की बातें कांह॥ ",
+    "Gujarati": "પીપા રામ પ્રતાપ તે, સાગર જલ કે માહ.\n\nપત્થરોની જેમ માણસોના શબ્દો પણ બદલાઈ જાય છે.",
+    "English": "Peepa Ram Pratap Te, Sagar Jal Ke Maah.\n\nLike stones, the words of men are transformed.",
+    "Hindi": "पीपा राम प्रताप ते, सागर जल के माह।\n\nपत्थरों की तरह इंसानों की बातें बदल जाती हैं।"
+
+
+  },
+  {
+    "Id" : 19,
+    "Sanskrit": "स्वामी होणौ सहज है, दुर्लभ होणौं दास। \n\nपीपा हरि के नाम बिन, कटै न जम की फाँस॥ ",
+    "Gujarati": "માલિક બનવું સહેલું છે, ગુલામ બનવું દુર્લભ છે.\n\nપીપળામાં પ્રભુનું નામ લીધા વિના જમની જાળ કપાતી નથી.",
+    "English": "It is easy to be a master, rare to be a slave.\n\nWithout the name of the Lord in the barrel, the trap of Jam is not cut.",
+    "Hindi": "स्वामी बनना आसान है, गुलाम बनना दुर्लभ है।\n\nबैरल में प्रभु के नाम के बिना, जाम का जाल नहीं कटता।"
+  },
+  {
+    "Id" : 20,
+    "Sanskrit": "सतगुरु जी री खोहड़ी, लागी म्हारे अंग। \n\nपीपा जुड़ग्या पी लगन, टूटी भरम तरंग॥ ",
+    "Gujarati": "સતગુરુ જી રી ખોહરી, લગી મ્હારે અંગ.\n\nપીપળો જોડાયો, ભ્રમનું મોજું તૂટ્યું.",
+    "English": "Satguru Ji Ri Khohri, Laagi Mhare Ang.\n\nThe barrel was joined, the wave of illusion was broken.",
+    "Hindi": "सतगुरु जी री खोहरी, लागी म्हारे अंग।\n\nबैरल जुड़ गया, भ्रम की लहर टूट गई।"
+
+
+  },
+  {
+    "Id" : 21,
+    "Sanskrit": "पीपा हरि प्रसाद तें, पायो ज्ञान अनंत। \n\nभव सागर ने पार कर, दुख को आयो अंत॥ ",
+    "Gujarati": "હરિની કૃપા પીઓ, અનંત જ્ઞાન મેળવો.\n\nમૃત્યુના સાગરને પાર કરીને દુઃખનો અંત આવ્યો છે.",
+    "English": "Drink the grace of Hari, get infinite knowledge.\n\nCrossing the ocean of death, the end of suffering has come.",
+    "Hindi": "हरि कृपा का पान करो, अनंत ज्ञान पाओ।\n\nमृत्यु सागर को पार कर दुख का अंत आ गया है।"
+  },
+  {
+    "Id" : 22,
+    "Sanskrit": "सुमिरण साँचो छोड़ के, अंतर मन ही होय। \n\nपीपा तन सुध बिसरे, प्रेम छलै न कोय॥",
+    "Gujarati": "સ્મરણને છોડીને ખરા, ભેદ છે મનનો.\n\nપીનાર દેહને ભૂલી ગયો, પ્રેમ ન રહ્યો.",
+    "English": "Leaving the true remembrance, the difference is the mind.\n\nThe drinker forgot the body, there was no love.",
+    "Hindi": "स्मरण सत्य छोड़ो, अंतर है मन का।\n\nपीनेवाला भूल गया देह को, न रहा प्रेम।"
+
+
+  },
+  {
+    "Id" : 23,
+    "Sanskrit": "निज सुत को माता पिता, करे भलो उपदेस। \n\nपीपा एकल राम बिनु, मिटै न जग रौ क्लेस॥ ",
+    "Gujarati": "માતાપિતાએ તેમના બાળકોને સારી રીતે શીખવવું જોઈએ.\n\nએકલા રામ વિના સંસારનું દુઃખ ભૂંસી શકાતું નથી.",
+    "English": "Parents should teach their children well.\n\nWithout Rama alone, the suffering of the world cannot be erased.",
+    "Hindi": "माता-पिता को अपने बच्चों को अच्छे से पढ़ाना चाहिए।\n\nराम के बिना जगत का दुःख मिट नहीं सकता।"
+  },
+  {
+    "Id" : 24,
+    "Sanskrit": "पीपा के पिंजरि बस्यो, रामानंद को रूप। \n\nसबै अंधेरा मिटि गया, देख्या रतन अनूप॥ ",
+    "Gujarati": "પીપળાનું પીંજરું સ્થિર થયું, રામાનંદનું રૂપ.\n\nબધો અંધકાર દૂર થઈ ગયો, અને રત્ન દેખાયું.",
+    "English": "The cage of the barrel settled, the form of Ramananda.\n\nAll darkness was erased, and the gem was seen.",
+    "Hindi": "पीप पिंजर बसे, रामानंद रूप।\n\nसारा अंधकार मिट गया और मणि के दर्शन हो गये।"
+
+
+  },
+  {
+    "Id" : 25,
+    "Sanskrit": "लघुता प्रभुता जो गिणै, गुरु से विनसे भरम। \n\nसत सबद ने राखलूँ, पीपा सिख रो धरम॥ ",
+    "Gujarati": "હળવાશ વર્ચસ્વ કોણ ગણે, ગુરુ સે વિનસે ભ્રમ.\n\nસત સબ ને રખલું, પીપા શીખ રો ધરમ ॥",
+    "English": "Lightness dominance who counts, Guru se vinse illusion.\n\nSat Sabad ne rakhlun, pipa sikh ro dharam॥",
+    "Hindi": "हल्केपन का प्रभुत्व जो गिनता है, गुरु से विनसे भ्रम।\n\nसत सबद ने रखलुं, पीपा सीख रो धरम॥"
+  },
+  {
+    "Id" : 26,
+    "Sanskrit": "पीपा हरि सो गुरु बिना, होत न सबद विवेक। \n\nज्ञान रहित अज्ञान सुत, कठिन कुमन की टेक॥ ",
+    "Gujarati": "પીપા હરિ સો ગુરુ બિના, ગરમ ના સબદ વિવેક.\n\nજ્ઞાન વિના, અજ્ઞાનનો પુત્ર, કઠણ કુમાનનો આધાર.",
+    "English": "Peepa Hari so guru bina, hot na sabad vivek.\n\nWithout knowledge, the son of ignorance, the support of the hard Kuman.",
+    "Hindi": "पीपा हरि सो गुरु बिना, होत न सबद विवेक।\n\nज्ञान बिन अज्ञानी पुत्र, कठिन कुमान का सहारा।"
+
+
+  },
+  {
+    "Id" : 27,
+    "Sanskrit": "उग्यो बिरहा जिण हिवरे, रोमां माइन राम। \n\nचातक ज्यूं पी नै रटै, पीपा आठहुँ धाम॥ ",
+    "Gujarati": "ઉગ્યો બિરહા જિન હિવરે, રોમન મારા રામ.\n\nપંખીની જેમ પીતા નથી, પીપળો આઠમો વાસ છે.",
+    "English": "Ugyo birha jin hivre, roman mine ram.\n\nThe bird does not drink like a bird, the barrel is the eighth abode.",
+    "Hindi": "उग्यो बिरहा जिन हिवरे, रोमान माइन राम।\n\nपंछी सम न पीवै, पीपा आठवाँ धाम।"
+  },
+  {
+    "Id" : 28,
+    "Sanskrit": "पीपा भज श्रीराम को, परिहर अखिल विचार। \n\nआजस तज या मनुज तनु, क्यों गिरता संसार॥ ",
+    "Gujarati": "પીપળ શ્રી રામની પૂજા કરો, બધા વિચારો ટાળો.\n\nઆજ માનવ દેહ છોડો, જગત કેમ પડે ?",
+    "English": "Pipa worship Sri Rama, avoid all thoughts.\n\nLeave your human body today, why does the world fall?",
+    "Hindi": "पीपा भजो श्री राम को, टालो सब विचार।\n\nआज छोड़ो मानव शरीर, क्यों गिरता है संसार?"
+
+
+  },
+  {
+    "Id" : 29,
+    "Sanskrit": "साँचा साँई परचिया, सतगुरु संत सहार। \n\nपीपा प्रणवै वाहि को, जो सबको करतार॥  ",
+    "Gujarati": "સાચા સાઈ પરચિયા, સતગુરુ સંત સહર.\n\nઓંકારનો પીપ પાણીનો સ્ત્રોત છે, જે બધાનો સર્જક છે.",
+    "English": "True Sai Parchia, Satguru Sant Sahar.\n\nThe barrel of the oṁkāra is the source of the water, which is the creator of all.",
+    "Hindi": "सच्चा साईं परछिया, सतगुरु संत सहर।\n\nओंकार का बैरल पानी का स्रोत है, जो सभी का निर्माता है।"
+  },
+  {
+    "Id" : 30,
+    "Sanskrit": "राम नाम सुमरत भये, रंक बँक बजरंग। \n\nध्रुव प्रह्लाद गीधगज, तजकुल को परसंग॥ ",
+    "Gujarati": "રામ નામ સુમરત ભયે, રાંક બેંક બજરંગ.\n\nધ્રુવ પ્રહલાદ ગીધગજા, તાજ પરિવારનો સંઘ.",
+    "English": "Ram Naam Sumarat Bhaye, Rank Bank Bajrang.\n\nDhruva Prahlada Gidhagaja, the association of the Taj family.",
+    "Hindi": "राम नाम सुमारत भये, रंक बैंक बजरंग।\n\nध्रुव प्रह्लाद गिद्धगजा, ताज परिवार का संघ।"
+
+
+  },
+  {
+    "Id" : 31,
+    "Sanskrit": "पीपा देर न कीजिये, भज लीजे हरि नाम। \n\nकुण जाणै क्या होवसी, छूट जाएँगे प्रान॥ ",
+    "Gujarati": "પીપળામાં વિલંબ ન કરો, ભગવાનના નામની પૂજા કરો.\n\nકોણ જાણે શું થશે, જીવ જશે.",
+    "English": "Don't delay the barrel, worship the Name of the Lord.\n\nWho knows what will happen, lives will be lost.",
+    "Hindi": "बैरल में देरी न करें, भगवान के नाम की पूजा करें।\n\nक्या पता क्या होगा, जान चली जायेगी."
+  },
+  {
+    "Id" : 32,
+    "Sanskrit": "पीपा देख विचार हिय, है यह मतो प्रवीन। \n\nसमचित रह संसार में, राम रसायन लीन॥ ",
+    "Gujarati": "પીપળો જોઈ વિચાર્યું હ્રદય, છે માટો નિપુણ.\n\nરામના રસાયણમાં લીન થઈને સંસારમાં સંતુલિત રહો.",
+    "English": "Barrel see thought heart, is it mato proficient.\n\nStay balanced in the world, absorbed in the chemistry of Rama.",
+    "Hindi": "बैरल विचार हृदय देखें, क्या यह माटो कुशल है।\n\nसंसार में संतुलित रहो, राम के रसायन में लीन रहो।"
+
+
+  },
+  {
+    "Id" : 33,
+    "Sanskrit": "पीपा माया नागणी, मन में धरौ बिसाल। \n\nजिन जिन दूध परोसियो, उण रो करियो नास॥ ",
+    "Gujarati": "પીપા માયા નાગણી, તમારા મનમાં વિશાળ રાખો.\n\nજેણે દૂધ પીરસ્યું, તેણે તેનો નાશ કર્યો.",
+    "English": "Peepa Maya Nagni, hold in your mind huge.\n\nWhoever served milk, he destroyed them.",
+    "Hindi": "पीपा माया नागनी, मन में धरो विशाल।\n\nजिसने भी दूध परोसा, उसने उसे नष्ट कर दिया।"
+  },
+  {
+    "Id" : 34,
+    "Sanskrit": "\nमाला मणका क्या गिनूं, यह तो सुमरण धाम। \n\nपीपा को हरि सुमरै, पीपा सुमरे राम॥ ",
+    "Gujarati": "માળા અને માળા હું શું ગણું, આ તો સ્મરણનું સ્થાન છે.\n\nપીપળો હરિને યાદ કરે છે, પીપળો રામને યાદ કરે છે.",
+    "English": "What can I count the garland and beads, this is the place of remembrance.\n\nThe barrel is remembered by Hari, the barrel is remembered by Rama.",
+    "Hindi": "माला-मोतियों को क्या गिनूँ, यह है याद का स्थान।\n\nबैरल हरि को याद है, बैरल राम को याद है।"
+
+
+  },
+  {
+    "Id" : 35,
+    "Sanskrit": "बण्यो बणायो रहे सदा, काटत है नहिं शूल। \n\nअरुण वरुण क्या काम को, बास बिना को फूल॥ ",
+    "Gujarati": "બન્યો બનાયો રહે સદા, વાત હૈ નહિ શુલ.\n\nઅરુણ વરુણ, નિવાસ વિના, ફૂલનો શું ઉપયોગ?",
+    "English": "Banyo banayo rahe sada, katat hai nahin shul.\n\nWhat is the use of Arun Varuna, without a dwelling, a flower?",
+    "Hindi": "बनायो बनायो सदा, काटत है नहिं शुल।\n\nअरुण वरुण का क्या उपयोग, निवास के बिना, फूल का?"
+  },
+  {
+    "Id" : 36,
+    "Sanskrit": "पीपा मन हरख्यौं फिरै, समझे नहीं गंवार। \n\nराम बिना जाणै नहीं, पावाँ तणा पहार॥ ",
+    "Gujarati": "પીપા મન હરખ્યું ફિરે, સમજે નહિ ગંવાર.\n\nરામ વિના હું જઈ શકતો નથી, હું ઘાસના પર્વત સુધી પહોંચી શકતો નથી.",
+    "English": "Peepa mind harkhyoon phire, samjhe nahin ganwar.\n\nWithout Rama I cannot go, I cannot reach the mountain of grass.",
+    "Hindi": "पीपा मन हरख्यूं फिरे, समझे नहीं गंवार।\n\nराम के बिना मैं नहीं जा सकता, मैं घास के पर्वत तक नहीं पहुँच सकता।"
+
+
+  },
+  {
+    "Id" : 37,
+    "Sanskrit": "भलौ बुरौ सब एक है, जाके आदि न अंत। \n\nजगहित जो हरि को सैवये, पीपा सोई संत॥ ",
+    "Gujarati": "સારું અને અનિષ્ટ બધા એક છે, શરૂઆત તરફ જવું અને અંત નહીં.\n\nજગહિત જો હરિ કો સૈવયે, પીપા સોઇ સંત ॥",
+    "English": "Good and evil are all one, going to the beginning and not the end.\n\nJagahit jo hari ko saivaye, pipa soi saint॥",
+    "Hindi": "अच्छाई और बुराई सभी एक हैं, शुरुआत की ओर, अंत की ओर नहीं।\n\nजगहित जो हरि को सावै, पीपा सोई संत॥"
+  },
+  {
+    "Id" : 38,
+    "Sanskrit": "जातां भव मझधार में, आयौ दुख रो अंत। \n\nपीपा गुरु परसाद ते, पायो पिया अनंत॥ ",
+    "Gujarati": "જીવનની મધ્યમાં જઈને દુઃખનો અંત આવી ગયો.\n\nગુરુનો પ્રસાદ પીવો, અને અનંત પીણું પીવો.",
+    "English": "Going into the middle of life, the end of suffering has come.\n\nDrink of the Guru's offering, and drink the infinite drink.",
+    "Hindi": "जीवन के मध्य में जाकर दुख का अंत आ गया है।\n\nगुरु का प्रसाद पियो, और अनंत रस पियो।"
+
+
+  },
+  {
+    "Id" : 39,
+    "Sanskrit": "पीपा गुरु हरि एक है, इणमां भेद न भूल। \n\nजै इण में अंतर करै, तिन के हिरदै सूल॥ ",
+    "Gujarati": "પીપા ગુરુ હરિ એક છે, તેમની વચ્ચેનો તફાવત ભૂલશો નહીં.\n\nજય માં મધ્ય કરે, તીન કે હીરદાય સૂલ ॥",
+    "English": "Peepa Guru Hari is one, don't forget the difference between them.\n\nJai in meantar kare, tin ke hirdai sool॥",
+    "Hindi": "पीपा गुरु हरि एक है, भेद मत भूलो।\n\nजय इन मतलब करे, तिन के हिरदै सूल॥"
+  },
+  {
+    "Id" : 40,
+    "Sanskrit": "भजत दुख मोचन करण, हरण सफल जंजाल। \n\nपीपा क्यों नहिं भजत नर, निस दिन राम कपाल॥ ",
+    "Gujarati": "ભજત પીડિત મુક્તિ, સફળ ફાંસોથી વંચિત.\n\nમાણસ રોજ પીપળાની, રામની ખોપરીની પૂજા કેમ નથી કરતો?",
+    "English": "Bhajat suffering redemption, deprivation of successful traps.\n\nWhy does not a man worship the barrel, the skull of Rama every day?",
+    "Hindi": "भजत कष्ट मोचन, वंचित सफल जाल।\n\nएक आदमी प्रतिदिन राम की खोपड़ी, बैरल की पूजा क्यों नहीं करता?  "
+
+
+  },
+  {
+    "Id" : 41,
+    "Sanskrit": "जिणरो रूप न रंग अंग, करण मरण अर जीव। \n\nरंग बास बन ज्यों रमै, अस पीपे को जीव॥ ",
+    "Gujarati": "જેનું સ્વરૂપ રંગ, અંગ, કારણ, મૃત્યુ અને અસ્તિત્વ નથી.\n\nપીનારાના આત્માની જેમ રંગ રહે છે, તે માણે છે.",
+    "English": "Whose form is not color, limbs, cause, death and being.\n\nColor dwells as it enjoys, as the soul of the drinker.",
+    "Hindi": "जिसका रूप रंग, अंग, कारण, मृत्यु और अस्तित्व नहीं है।\n\nरंग वैसे ही रहता है जैसे वह आनंद लेता है, पीने वाले की आत्मा के रूप में।"
+  },
+  {
+    "Id" : 42,
+    "Sanskrit": "पीपा जिनके मन कपट, तन पर ऊजरौ भेस। \n\nतिन को मुख कारौ करो, संत जनां का लेख॥ ",
+    "Gujarati": "પીપા જેનું મન દંભી, શરીર તેજસ્વી વેશમાં.\n\nતેમને ચહેરાઓ, સંતોના લખાણો બનાવો.",
+    "English": "Pipa whose mind is hypocritical, the body on the bright disguise.\n\nMake them faces, the writings of the saints.",
+    "Hindi": "पीपा जिसका मन कपटी, तन उजला भेष।\n\nउन्हें चेहरे बनाओ, संतों की लिखावट."
+
+
+  },
+  {
+    "Id" : 43,
+    "Sanskrit": "पीपा माया नारी परहरै, चित तूं धरै उतारि। \n\nते नर गोरखनाथ ज्यूँ, अमर भया संसारि॥ ",
+    "Gujarati": "પીપા માયા નારી પરહરાઈ, ચિત તું ધરાઈ ઉતારી.\n\nતેઓ ગોરખનાથ જેવા માણસો છે, જગતના ભયથી અમર છે.",
+    "English": "Peepa maya nari parharai, chit tu dharai utaari.\n\nThey are men like Gorakhnath, immortal in fear of the world.",
+    "Hindi": "पीपा माया नारी परहारै, चित तू धरै उतारि।\n\nवे गोरखनाथ जैसे संसार के भय से अमर पुरुष हैं।"
+  },
+  {
+    "Id" : 44,
+    "Sanskrit": "पीपा दास कहाबो कठिन है, मन नहिं छांड़े मानि। \n\nसतगुरू सूँ परचौ नही, कलियुग लागौ कानि॥ ",
+    "Gujarati": "પીપળા દાસ કહેવાનું અઘરું છે, પણ મન છોડતું નથી.\n\nમેં સતગુરુને ઓળખ્યા નથી, કલિયુગ આવી રહ્યું છે. પીપળા દાસ કહેવાનું અઘરું છે, પણ મન છોડતું નથી.",
+    "English": "It is difficult to be called a Peepa Das, but the mind does not leave.\n\nI have not known the Satguru, Kali Yuga is coming. It is difficult to be called a Peepa Das, but the mind does not leave.",
+    "Hindi": "पीपा दास कहलाना कठिन है, पर मन नहीं छूटता।\n\nसतगुरु हमने जाना नहीं, कलियुग आ रहा है। पीपा दास कहलाना कठिन है, पर मन नहीं छूटता।।"
+
+
+  },
+  {
+    "Id" : 45,
+    "Sanskrit": "सतगुरू साँचो जोहरी, परसे ज्ञान कसौट। \n\nपीपा सुधो ई करे, दे अणभौरी चोट॥",
+    "Gujarati": "સતગુરુ સાચા જોહરી, જ્ઞાનની કસોટી.\n\nબેરલ સાફ કરવામાં આવે છે, અને તે અભૂતપૂર્વ ફટકો આપે છે.",
+    "English": "Satguru is the true Johari, the test of knowledge.\n\nThe barrel is cleansed, and it gives an unprecedented blow.",
+    "Hindi": "सतगुरु ही सच्चा जोहारी है, ज्ञान की कसौटी।\n\nबैरल को साफ किया जाता है, और यह एक अभूतपूर्व झटका देता है।"
+  },
+  {
+    "Id" : 46,
+    "Sanskrit": "पीपा थौड़े अंतरै, घणी बिगूती लोई। \n\nमहामाई मान्या घणा, तार यौ नाहीं कोई॥ ",
+    "Gujarati": "પીપળો થોડો દૂર છે, કણક જાડા છે.\n\nમહામાઈ અનેક, કોઈ તાર નથી.",
+    "English": "The barrel is a little farther away, the dough is thick.\n\nMahamai many, there is no string.",
+    "Hindi": "बैरल थोड़ा दूर है, आटा मोटा है.\n\nमहामाई अनेक, कोई तार नहीं।"
+
+
+  },
+  {
+    "Id" : 47,
+    "Sanskrit": "पीपा पारस परसताँ, लोहा कंचन होई। \n\nसिद्ध के कांठे बैसताँ, साधक भी सिद्ध होई॥ ",
+    "Gujarati": "બેરલ પારો છે, લોખંડ સોનું છે.\n\nસંપૂર્ણના ખભા પર બેસીને સાધક પણ સંપૂર્ણ બની જશે.",
+    "English": "The barrel is mercury, the iron is gold.\n\nSitting on the shoulder of the perfect, the seeker will also become perfect.",
+    "Hindi": "बैरल पारा है, लोहा सोना है।\n\nसिद्ध के कंधे पर बैठने से साधक भी सिद्ध हो जायेगा।"
+  },
+  {
+    "Id" : 48,
+    "Sanskrit": "पीपा सिख दे जगत कूं, काठे सब रो बाँक। \n\nपेख्या पलक उघाड़ कै, अपणौ अंतर झाँक॥ ",
+    "Gujarati": "દુનિયાને શીખની પીપળો, બધા કાંઠાના લાકડા.\n\nપેઢ્યાએ આંખો ખોલી અને પોતાની અંદરના અસ્તિત્વમાં જોયું.",
+    "English": "The barrel of the Sikhs to the world, the wood of all the banks.\n\nOpening his eyes, he looked into his own innermost being.",
+    "Hindi": "जग को सिखों का बैरल, सब बैंकों की लकड़ी।\n\nपेख्या ने अपनी आँखें खोलीं और अपने अंतरतम में देखा।"
+
+
+  },
+  {
+    "Id" : 49,
+    "Sanskrit": "पीपा मणको काठ रो, बीच पिरोवे सूत। \n\nसुमरणी निरदोषणी, के रण हार कपूत॥ ",
+    "Gujarati": "પીપળાના મણકાનું લાકડું, મધ્યમાં વણાયેલો દોરો.\n\nસુમરાણી નિર્દોષ, જે યુદ્ધ કપુતા હારી.",
+    "English": "The wood of the barrel beads, the thread woven in the middle.\n\nSumarani innocent, who lost the battle Kaputa.",
+    "Hindi": "बैरल मोती की लकड़ी, बीच में बुना धागा.\n\nसुमरानी निर्दोष, जो युद्ध हार गई कपूत।"
+  },
+  {
+    "Id" : 50,
+    "Sanskrit": "पीपा परनारी परतखि छुरी, बिरला बंचै कोई। \n\nनाँ पेटि संचारिऐ, सो सेना की होई",
+    "Gujarati": "બેરલ વૃદ્ધ સ્ત્રી છરી મૂકે છે, ભાગ્યે જ કોઈ બચે છે.\n\nજો આપણે બોક્સ સાથે વાતચીત નહીં કરીએ, તો પછી સેના શું હશે?",
+    "English": "Barrel old woman lays knife, rarely survives anyone.\n\nIf we don't communicate the box, then what will the army be?",
+    "Hindi": "बैरल बूढ़ी औरत चाकू रखती है, शायद ही कोई बचता है।\n\nबॉक्स संवाद नहीं करेंगे तो सेना क्या होगी?"
+
+
+  },
+  {
+    "Id" : 51,
+    "Sanskrit": "पीपा सिख दे जगत कूं, काठे सब रो बाँक। \n\nपेख्या पलक उघाड़ कै, अपणौ अंतर झाँक॥ ",
+    "Gujarati": "દુનિયાને શીખની પીપળો, બધા કાંઠાના લાકડા.\n\nપેઢ્યાએ આંખો ખોલી અને પોતાની અંદરના અસ્તિત્વમાં જોયું.",
+    "English": "The barrel of the Sikhs to the world, the wood of all the banks.\n\nOpening his eyes, he looked into his own innermost being.",
+    "Hindi": "जग को सिखों का बैरल, सब बैंकों की लकड़ी।\n\nपेख्या ने अपनी आँखें खोलीं और अपने अंतरतम में देखा।"
+  },
+  {
+    "Id" : 52,
+    "Sanskrit": "पीपा मणको काठ रो, बीच पिरोवे सूत। \n\nसुमरणी निरदोषणी, के रण हार कपूत॥ ",
+    "Gujarati": "પીપળાના મણકાનું લાકડું, મધ્યમાં વણાયેલો દોરો.\n\nસુમરાણી નિર્દોષ, જે યુદ્ધ કપુતા હારી.",
+    "English": "The wood of the barrel beads, the thread woven in the middle.\n\nSumarani innocent, who lost the battle Kaputa.",
+    "Hindi": "बैरल मोती की लकड़ी, बीच में बुना धागा.\n\nसुमरानी निर्दोष, जो युद्ध हार गई कपूत।"
+
+
+  },
+  {
+    "Id" : 53,
+    "Sanskrit": "पीपा परनारी परतखि छुरी, बिरला बंचै कोई। \n\nनाँ पेटि संचारिऐ, सो सेना की होई॥ ",
+    "Gujarati": "બેરલ વૃદ્ધ સ્ત્રી છરી મૂકે છે, ભાગ્યે જ કોઈ બચે છે.\n\nઅમે બોક્સ નહીં ખસેડીએ તો સેનાનું શું થશે?",
+    "English": "Barrel old woman lays knife, rarely survives anyone.\n\nIf we do not move the box, what will happen to the army?",
+    "Hindi": "बैरल बूढ़ी औरत चाकू रखती है, शायद ही कोई बचता है।\n\nअगर हम बक्सा नहीं हटाएंगे तो सेना का क्या होगा?"
+  },
+  {
+    "Id" : 54,
+    "Sanskrit": "पतिव्रता पति कू भजै, पति भज धरै विसास। \n\nपीपा चितै न आन, घड़ी पल पिव री आस॥ ",
+    "Gujarati": "પવિત્ર સ્ત્રી તેના પતિની પૂજા કરે છે, અને પતિ તેની પૂજા કરે છે અને તેની શ્રદ્ધા રાખે છે.\n\nપીપળો મનમાં ન આવે, ઘડી પીતા ઘડીએ આશા.",
+    "English": "The chaste woman worships her husband, and the husband worships her and holds her faith.\n\nThe barrel does not come to the mind, the hour of the moment of drinking is the hope.",
+    "Hindi": "पवित्र स्त्री अपने पति की पूजा करती है, और पति उसकी पूजा करता है और उसका विश्वास रखता है।\n\nबैरल मन में नहीं आता, पीने के क्षण की घड़ी आशा है।"
+
+
+  },
+  {
+    "Id" : 55,
+    "Sanskrit": "पीपा दोइ न चहिये भगत के, इक ऊँट र सालिगराम। \n\nवहु तौ तौडै पीपलाँ, वह तुलसी का पान॥ ",
+    "Gujarati": "ભક્તને બે પીપળા, એક ઊંટ અને એક સાલીગ્રામ જોઈતું નથી.\n\nતેઓ પોપ્લર વૃક્ષો તોડી, તેઓ તુલસીનો છોડ પીવે છે.",
+    "English": "The devotee does not want two barrels, one camel and one saligram.\n\nThey break the poplar trees, they drink the basil tree.",
+    "Hindi": "भक्त को दो पीपे, एक ऊँट और एक सालिग्राम नहीं चाहिए।\n\nवे चिनार के पेड़ तोड़ते हैं, वे तुलसी का पेड़ पीते हैं।"
+  },
+  {
+    "Id" : 56,
+    "Sanskrit": "आज धूप में छाँव है, काल छाँव में धूप। \n\nपीपा पलट्यो ही करे, रंक रूप अरू भूप॥ ",
+    "Gujarati": "આજે તડકો છાંયો છે, કાલે છાંયો છે.\n\nપીપ ચાલુ છે, પદ અને સ્વરૂપ અને રાજા.",
+    "English": "Today there is shade in the sun, tomorrow there is sun in the shade.\n\nThe barrel is turned, the rank and form and the king.",
+    "Hindi": "आज धूप में छाँव है, कल छाँव में धूप है।\n\nबैरल बदल गया है, रंक और रूप और राजा।"
+
+
+  },
+  {
+    "Id" : 57,
+    "Sanskrit": "लोट पलट कंचन भया, सतगुरु रामानंद। \n\nपीपो पद रज है सदा, मिट्या जगत का फंद॥ ",
+    "Gujarati": "લોટ પલટ કંચન ભાયા, સતગુરુ રામાનંદ.\n\nરાજાના પદચિહ્ન પીઓ, જગતની જાળ ભૂંસી નાખો.",
+    "English": "Lot palt kanchan bhaya, Satguru Ramanand.\n\nDrink the footprint of Raja, erase the trap of the world.",
+    "Hindi": "लोट पलट कंचन भया, सतगुरु रामानंद।\n\nरजस पदचिन्हों का सदा पान करो, संसार का जाल मिटाओ।"
+  },
+  {
+    "Id" : 58,
+    "Sanskrit": "पीपा धोखा नजरि का, जती-सती कूँ होई। \n\nमन अरू नैंण बिगूचता, बिरला राखै कोई॥ ",
+    "Gujarati": "આંખોની છેતરપિંડીનો પીપળો, વિજેતા બનશે.\n\nમન ને આંખ તૂટે છે, ભાગ્યે જ કોઈ રાખે છે.",
+    "English": "The barrel of deception of the eyes, will be the winner.\n\nMind and eyes are broken, rarely does anyone keep it.",
+    "Hindi": "आँखों के धोखे की नली, विजेता होगी।\n\nमन और नयन फूटे हैं, बिरले ही कोई रखता है।"
+
+
+  },
+
+  {
+    "Id" : 59,
+    "Sanskrit": "राम नाम सन्मुख हुयो, देय जगत को पीठ। \n\nपीपा ज्यों अहि बोलि तब, होता उज्जल दीठ॥ ",
+    "Gujarati": "રામ નામ સન્મુખ હુયો, દે જગત કો પીઠ.\n\nબેરલની જેમ, આ ભાષણ પછી, તેજસ્વી દૃષ્ટિ હશે.",
+    "English": "Ram Naam Sanmukh Huyo, Dey Jagat Ko Peeth.\n\nLike a barrel, this speech then, would be bright sight.",
+    "Hindi": "राम नाम सन्मुख हुयो, दे जगत को पीठ।\n\nएक बैरल की तरह, यह भाषण तब उज्ज्वल दृश्य होगा।"
+  },
+  {
+    "Id" : 60,
+    "Sanskrit": "पीपा हिरदे रम रहे, लग्यो रहे पी लार। \n\nजग रे धंधे लागतां, भूले नहीं करतार॥ ",
+    "Gujarati": "હૃદયમાં બેરલ રમ હતી, પીણું લાળ હતું.\n\nદુનિયાનો ધંધો રોકાયેલો છે, તમે ભૂલશો નહીં.",
+    "English": "The barrel in the heart was rum, the drink was saliva.\n\nThe world's business is engaged, you do not forget.",
+    "Hindi": "दिल में बैरल रम था, पेय लार था.\n\nलगे जग के व्यापार, तुम भूलो मत।"
+
+
+  }
+]
