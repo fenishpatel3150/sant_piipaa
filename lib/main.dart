@@ -1,12 +1,12 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:sant_piipaa/screen/controller/DataController.dart';
+import 'package:sant_piipaa/screen/helper/DataController.dart';
 import 'package:sant_piipaa/screen/view/home/HomeScreen.dart';
 import 'package:sant_piipaa/screen/view/second/SecondScreen.dart';
 
 void main() {
   runApp(MultiProvider(providers: [
-    ChangeNotifierProvider(create: (context) => DataController(),),
+    ChangeNotifierProvider(create: (context) => ApiService(),),
 
   ],child: const MyApp(),));
 }
@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
         routes:
       {
         '/' : (context) => HomeScreen(),
-        '/second' : (context) => SecondScreen(),
+        '/second': (context) => SecondScreen(),
       },
     );
   }

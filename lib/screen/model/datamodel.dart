@@ -18,7 +18,7 @@ class DataModel {
         this.Sanskrit,
   });
 
-  factory DataModel.fromJson(json)
+  factory DataModel.fromJson(Map json)
   {
     return DataModel(
       Id: json['Id'],
